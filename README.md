@@ -4,16 +4,16 @@
 
 https://user-images.githubusercontent.com/56523281/179372797-c19f9224-c374-4cf7-acb0-ff2963c02382.mp4
 
-## demo=1, the image of test for SVM pipeline and YOLO v3 pipeline
+## 1-demo=1, the image of test for SVM pipeline and YOLO v3 pipeline
 
 ![Figure 2022-07-16 151135](https://user-images.githubusercontent.com/56523281/179373458-be6330b7-5c40-42af-8021-c85a3103e655.png)
 ![Figure 2022-07-16 151208](https://user-images.githubusercontent.com/56523281/179373467-792fc549-129e-4478-8fb5-6fbfceb3caf1.png)
 
-## demo=2, the video result of YOLOv3 pipeline
+## 2-demo=2, the video result of YOLOv3 pipeline
 
 https://user-images.githubusercontent.com/56523281/179372781-660daf9d-a870-4cfa-8ac4-d6d59288710b.mp4
 
-## demo=3, the video result of SVM pipeline
+## 3-demo=3, the video result of SVM pipeline
 
 https://user-images.githubusercontent.com/56523281/179373656-fdd94914-7f04-460d-9fb0-929ea0b07121.mp4
 
@@ -72,13 +72,13 @@ google-auth                   2.9.1
 google-auth-oauthlib          0.4.6
 google-pasta                  0.2.0
 grpcio                        1.47.0
-h5py                          3.1.0
+h5py                          3.1.0  <--
 idna                          3.3
 imageio                       2.19.3
-imageio-ffmpeg                0.4.7
+imageio-ffmpeg                0.4.7  <--
 imagesize                     1.4.1
-importlib-metadata            4.11.3
-importlib-resources           5.2.0
+importlib-metadata            4.11.3 <--
+importlib-resources           5.2.0  <--
 inflection                    0.5.1
 intervaltree                  3.1.0
 ipykernel                     6.9.1
@@ -90,7 +90,7 @@ Jinja2                        3.0.3
 jinja2-time                   0.2.0
 joblib                        1.1.0
 jsonschema                    4.4.0
-jupyter-client                6.1.12
+jupyter-client                6.1.12  <--
 jupyter-core                  4.10.0
 jupyterlab-pygments           0.1.2
 keras                         2.9.0
@@ -102,14 +102,14 @@ lazy-object-proxy             1.6.0
 libclang                      14.0.1
 Markdown                      3.3.7
 MarkupSafe                    2.1.1
-matplotlib                    3.5.2
+matplotlib                    3.5.2  <--
 matplotlib-inline             0.1.2
 mccabe                        0.6.1
 mistune                       0.8.4
 mkl-fft                       1.3.1
 mkl-random                    1.2.2
 mkl-service                   2.4.0
-moviepy                       1.0.3
+moviepy                       1.0.3  <--
 multidict                     5.1.0
 mypy-extensions               0.4.3
 nbclient                      0.5.13
@@ -176,8 +176,8 @@ requests-oauthlib             1.3.1
 rope                          0.22.0
 rsa                           4.8
 Rtree                         0.9.7
-scikit-image                  0.19.3
-scikit-learn                  0.22
+scikit-image                  0.19.3 <--
+scikit-learn                  0.22   <--
 scipy                         1.7.3
 setuptools                    61.2.0
 sip                           4.19.13
@@ -197,7 +197,7 @@ spyder-kernels                2.1.3
 tensorboard                   2.9.1
 tensorboard-data-server       0.6.1
 tensorboard-plugin-wit        1.8.1
-tensorflow                    2.9.1
+tensorflow                    2.9.1 <--
 tensorflow-estimator          2.9.0
 tensorflow-io-gcs-filesystem  0.26.0
 termcolor                     1.1.0
